@@ -1,0 +1,25 @@
+{
+  "name": "notes-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirpinev/notes-app.git"
+  },
+  "author": "Igor Kirpinev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirpinev/notes-app/issues"
+  },
+  "homepage": "https://github.com/kirpinev/notes-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "nodemon": "^1.18.5",
+    "validator": "^10.8.0",
+    "yargs": "^12.0.2"
+  }
+}
