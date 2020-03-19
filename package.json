@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/kirpinev/notes-app#readme",
   "dependencies": {
-    "chalk": "^2.4.1",
-    "nodemon": "^1.18.5",
-    "validator": "^10.8.0",
-    "yargs": "^12.0.2"
+    "chalk": "^3.0.0",
+    "nodemon": "^2.0.2",
+    "validator": "^12.2.0",
+    "yargs": "^15.3.1"
   }
 }
